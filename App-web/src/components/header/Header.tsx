@@ -1,6 +1,5 @@
 import './Header.css';
 import CerrarSesion from '../BotonCerrar/CerrarSesion';
-import Login from '../Login/Login';
 
 type Props = {
     setUser: (username: string) => void;
