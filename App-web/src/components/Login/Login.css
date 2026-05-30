@@ -5,12 +5,12 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f6f6f7;
+  background-color: #e3e3e6;
 }
 h1 {
   font-size: 32px;
   margin-bottom: 20px;
-  color: #333;
+  color: #000000;
 }
 
 button {
